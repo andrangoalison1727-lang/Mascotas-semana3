@@ -1,4 +1,4 @@
-##Comparación entre Programación Tradicional y Programación Orientada a Objetos en Python
+## Comparación entre Programación Tradicional y Programación Orientada a Objetos en Python
 
 Estudiante: Andrango Nieto Alison Dayana
 
